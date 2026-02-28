@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Jangan Pernah Berubah",
+  "base_artist": "ST12",
+  "createdAt": "2026-02-28T19:26:58.283819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST12",
+      "has_synced": false,
+      "path": "select/01_Jangan_Pernah_Berubah_ST12.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "Marcell",
+      "has_synced": true,
+      "path": "select/02_Jangan_Pernah_Berubah_Marcell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "jangan pernah berubah",
+      "artist": "Marcell",
+      "has_synced": true,
+      "path": "select/03_jangan_pernah_berubah_Marcell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ST12 - Jangan Pernah Berubah (Acoustic)",
+      "artist": "DikArdha",
+      "has_synced": true,
+      "path": "select/04_ST12_-_Jangan_Pernah_Berubah_(Acoustic)_DikArdha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST 12",
+      "has_synced": true,
+      "path": "select/05_Jangan_Pernah_Berubah_ST_12.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST12",
+      "has_synced": true,
+      "path": "select/06_Jangan_Pernah_Berubah_ST12.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "Syifa Hadju",
+      "has_synced": true,
+      "path": "select/07_Jangan_Pernah_Berubah_Syifa_Hadju.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "Syifa Hadju",
+      "has_synced": true,
+      "path": "select/08_Jangan_Pernah_Berubah_Syifa_Hadju.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "Coldiac",
+      "has_synced": false,
+      "path": "select/09_Jangan_Pernah_Berubah_Coldiac.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST12",
+      "has_synced": true,
+      "path": "select/10_Jangan_Pernah_Berubah_ST12.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "Coldiac",
+      "has_synced": true,
+      "path": "select/11_Jangan_Pernah_Berubah_Coldiac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST12, 146M plays",
+      "has_synced": true,
+      "path": "select/12_Jangan_Pernah_Berubah_ST12,_146M_plays.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jangan Pernah Berubah",
+      "artist": "ST12",
+      "has_synced": false,
+      "path": "select/pl_01_Jangan_Pernah_Berubah_ST12.txt"
+    }
+  ]
+}
